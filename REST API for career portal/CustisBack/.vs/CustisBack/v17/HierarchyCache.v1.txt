@@ -1,0 +1,318 @@
+﻿++Solution 'CustisBack' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:CustisBack.sln
+++CustisBack
+i:{00000000-0000-0000-0000-000000000000}:CustisBack
+++Connected Services 
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:>529
+++Dependencies
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:>528
+++Imports
+++Properties
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\properties\
+++.config
+++dotnet-tools.json
+++bin
+++Debug
+++Release
+++Controllers
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\controllers\
+++FaqController.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\controllers\faqcontroller.cs
+++MailSendController.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\controllers\mailsendcontroller.cs
+++SingleFullVacancyController.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\controllers\singlefullvacancycontroller.cs
+++StackVacanciesController.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\controllers\stackvacanciescontroller.cs
+++VacancyController.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\controllers\vacancycontroller.cs
+++obj
+++appsettings.json
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\appsettings.json
+++DbConnection.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\dbconnection.cs
+++Faq.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\faq.cs
+++MailSend.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\mailsend.cs
+++Program.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\program.cs
+++StackVacancies.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\stackvacancies.cs
+++Vacancy.cs
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\vacancy.cs
+++web.config
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\web.config
+++No service dependencies discovered
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:>530
+++Analyzers
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:analyzers
+++Frameworks
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:frameworks
+++Packages
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:packages
+++Sdk.props
+++Sdk.targets
+++PublishProfiles
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\properties\publishprofiles\
+++ServiceDependencies
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\properties\servicedependencies\
+++launchSettings.json
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\properties\launchsettings.json
+++net6.0
+++CustisBack.csproj.EntityFrameworkCore.targets
+++CustisBack.csproj.nuget.dgspec.json
+++CustisBack.csproj.nuget.g.props
+++CustisBack.csproj.nuget.g.targets
+++project.assets.json
+++project.nuget.cache
+++staticwebassets.pack.sentinel
+++appsettings.Development.json
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\microsoft.netcore.app
+++MailKit (3.1.1)
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:>545
+++MimeKit (3.1.1)
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:>544
+++MySql.Data (8.0.28)
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:>543
+++Swashbuckle.AspNetCore (6.2.3)
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:>541
+++System.Data.SqlClient (4.8.3)
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:>542
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++CustisCarierBack - Web Deploy.pubxml
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\properties\publishprofiles\custiscarierback - web deploy.pubxml
+++CustisCarierBack - Web Deploy.pubxml.user
+++CustisCarierBack - Web Deploy
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\properties\servicedependencies\custiscarierback - web deploy\
+++ref
+++runtimes
+++BouncyCastle.Crypto.dll
+++CustisBack.deps.json
+++CustisBack.dll
+++CustisBack.exe
+++CustisBack.pdb
+++CustisBack.runtimeconfig.json
+++Google.Protobuf.dll
+++K4os.Compression.LZ4.dll
+++K4os.Compression.LZ4.Streams.dll
+++K4os.Hash.xxHash.dll
+++MailKit.dll
+++Microsoft.OpenApi.dll
+++Microsoft.Win32.SystemEvents.dll
+++MimeKit.dll
+++MySql.Data.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+++System.Configuration.ConfigurationManager.dll
+++System.Data.SqlClient.dll
+++System.Drawing.Common.dll
+++System.Security.Cryptography.ProtectedData.dll
+++System.Security.Permissions.dll
+++System.Windows.Extensions.dll
+++Ubiety.Dns.Core.dll
+++ZstdNet.dll
+++Microsoft.Common.props
+++Microsoft.NET.Sdk.props
+++Sdk.Razor.CurrentVersion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+++Microsoft.NET.Sdk.Publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+++Microsoft.CSharp.targets
+++Microsoft.NET.Sdk.targets
+++Microsoft.NET.Compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+++Sdk.Razor.CurrentVersion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+++profile.arm.json
+i:{6960d9d5-e52c-40a2-b429-68d009f2e480}:d:\рабочий стол\кастис\custiscareersfront\src\custisback\custisback\properties\servicedependencies\custiscarierback - web deploy\profile.arm.json
+++unix
+++win
+++win-arm64
+++win-x64
+++win-x86
+++PubTmp
+++staticwebassets
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+++apphost.exe
+++CustisBack.AssemblyInfo.cs
+++CustisBack.AssemblyInfoInputs.cache
+++CustisBack.assets.cache
+++CustisBack.csproj.AssemblyReference.cache
+++CustisBack.csproj.CopyComplete
+++CustisBack.csproj.CoreCompileInputs.cache
+++CustisBack.csproj.FileListAbsolute.txt
+++CustisBack.GeneratedMSBuildEditorConfig.editorconfig
+++CustisBack.genruntimeconfig.cache
+++CustisBack.GlobalUsings.g.cs
+++CustisBack.MvcApplicationPartsAssemblyInfo.cache
+++CustisBack.MvcApplicationPartsAssemblyInfo.cs
+++staticwebassets.build.json
+++PublishOutputs.db2b15aeb6.txt
+++staticwebassets.publish.json
+++Microsoft.NuGet.ImportBefore.props
+++NuGet.props
+++Microsoft.NET.Sdk.DefaultItems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+++Microsoft.NET.SupportedPlatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+++Microsoft.NET.ILLink.props
+++Microsoft.NET.Compatibility.props
+++Microsoft.NET.PackTool.props
+++Microsoft.NET.PackProjectTool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+++Microsoft.NET.Windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+++Microsoft.TypeScript.Default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+++Microsoft.Managed.Before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+++Microsoft.Managed.After.targets
+++Microsoft.NET.Sdk.Common.targets
+++Microsoft.PackageDependencyResolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+++Microsoft.NET.DesignerSupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+++Microsoft.NET.ComposeStore.targets
+++Microsoft.NET.CrossGen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+++Microsoft.NET.Publish.targets
+++Microsoft.NET.PackTool.targets
+++Microsoft.NET.PackProjectTool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+++Microsoft.NET.ConflictResolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+++Microsoft.NET.ILLink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+++Microsoft.TypeScript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+++Microsoft.Web.Designtime.targets
+++Default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+++lib
+++native
+++TestMsDeployConnection
+++Out
+++CustisBack.Parameters.xml
+++CustisBack.SourceManifest.xml
+++Microsoft.Extensions.ApiDescription.Server.props
+++Swashbuckle.AspNetCore.props
+++Microsoft.NuGet.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+++Microsoft.CSharp.Core.targets
+++Microsoft.CSharp.DesignTime.targets
+++Microsoft.Common.targets
+++Microsoft.ServiceModel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+++netcoreapp2.1
+++netcoreapp3.0
+++netstandard2.0
+++sni.dll
+++Microsoft.NET.ILLink.Tasks.props
+++System.Windows.Forms.Analyzers.props
+++Microsoft.Managed.Core.targets
+++Microsoft.Managed.DesignTime.targets
+++Microsoft.Common.CurrentVersion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+++CustisBack.csproj.user
+++Microsoft.NET.props
+++Microsoft.CodeAnalysis.targets
+++Microsoft.Xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+++Microsoft.TeamTest.targets
+++NuGet.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+++Microsoft.Docker.ImportAfter.targets
+++Microsoft.NET.Build.Extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+++Microsoft.NetNative.ImportAfter.targets
+++Microsoft.NuGet.ImportAfter.targets
+++Microsoft.Web.ImportAfter.targets
+++Xamarin.Common.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+++Microsoft.DesktopBridge.Common.targets
+++Microsoft.Docker.targets
+++Microsoft.Web.IISSupport.targets

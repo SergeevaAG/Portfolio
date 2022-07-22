@@ -1,0 +1,21 @@
+﻿<Window x:Class="EncryptionApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EncryptionApp"
+        mc:Ignorable="d"
+        Title="Шифрование" Height="450" Width="711.2" WindowStartupLocation="CenterScreen" Background="{x:Null}">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="s1200.jpg" Opacity="0.7"/>
+        </Grid.Background>
+        <Button x:Name="btnDecision" Content="Выбрать файл" HorizontalAlignment="Left" Margin="24,14,0,0" VerticalAlignment="Top" Width="123" Height="38" Background="#FF91E27C" Click="btnDecision_Click" FontWeight="Bold"/>
+        <Label x:Name="lb" Content="" HorizontalAlignment="Left" Margin="268,20,0,0" VerticalAlignment="Top" FontWeight="Bold" Background="#7FFCFCFC" RenderTransformOrigin="-2.23,0.207" Foreground="White"/>
+        <Button x:Name="btnDecipher" Content="Дешифровать файл" HorizontalAlignment="Left" Margin="24,100,0,0" VerticalAlignment="Top" Width="123" Background="#FF91E27C" FontWeight="Bold" Height="38" Click="btnDecipher_Click"/>
+        <TextBox x:Name="txtOut" HorizontalAlignment="Left" Height="340" Margin="170,57,0,0" TextWrapping="Wrap" Text="Область для работы с текстом" VerticalAlignment="Top" Width="508" Background="#CCFFFFFF"/>
+        <Button x:Name="btnCipher" Content="Зашифровать текст" HorizontalAlignment="Left" Margin="24,57,0,0" VerticalAlignment="Top" Width="123" Height="38" Background="#FF91E27C" FontWeight="Bold" Click="btnCipher_Click"/>
+        <Label Content="Выбран файл:" HorizontalAlignment="Left" Margin="170,20,0,0" VerticalAlignment="Top" Background="#7FFFFFFF" FontWeight="Bold"/>
+        <Button x:Name="btnSave" Content="Сохранить текст" HorizontalAlignment="Left" Margin="24,144,0,0" VerticalAlignment="Top" Width="123" Height="38" Background="#FF91E27C" FontWeight="Bold" Click="btnSave_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,31 @@
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe.config
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.pdb
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csprojAssemblyReference.cache
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\MainWindow.g.cs
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\App.g.cs
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp_MarkupCompile.cache
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp_MarkupCompile.lref
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\MainWindow.baml
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.g.resources
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.Properties.Resources.resources
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csproj.GenerateResource.cache
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.exe
+C:\Users\ele66\Desktop\lab\курсач\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.pdb
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\bin\Debug\EncryptionApp.exe.config
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\bin\Debug\EncryptionApp.exe
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\bin\Debug\EncryptionApp.pdb
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp.csproj.AssemblyReference.cache
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\App.g.cs
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp_MarkupCompile.cache
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp_MarkupCompile.lref
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\MainWindow.baml
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp.g.resources
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp.Properties.Resources.resources
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp.csproj.GenerateResource.cache
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp.exe
+D:\Рабочий стол\encrypt\Encryption\EncryptionApp\obj\Debug\EncryptionApp.pdb
